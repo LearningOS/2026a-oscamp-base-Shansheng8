@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-Shansheng8",
-  "commit": "7dfd8b18f0bdc1000c44e0391e5468f2d5bfa83f",
-  "score": 15,
+  "commit": "0082d689a50905ed7817e956a42cf0500ee7b66b",
+  "score": 19,
   "totalScore": 100,
   "exercises": [
     {
@@ -37,9 +37,9 @@
     {
       "name": "mem_primitives",
       "max": 4,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 4,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "bump_allocator",
@@ -176,9 +176,9 @@
     }
   ],
   "student": "Shansheng8",
-  "runId": "39275947894",
+  "runId": "39741769045",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
